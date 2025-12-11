@@ -19,5 +19,7 @@ I'm Jaime Gutierrez, a student at Brigham Young University-Idaho interested in a
 ## Let's Connect!
 
 - Here is my  [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() profile: https://www.linkedin.com/in/jaime-gutierrez-615686291/
+- [![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsime34)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
