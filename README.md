@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Jsime34/Jsime34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jaime Gutierrez Zevallos
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Jaime Gutierrez, a student at Brigham Young University-Idaho interested in a lot of technologies, such as HTML, CSS, Python, SQL, C++, C#, JavaScript, Java, Rust, and additional technologies such as Django, Godot, or LLM training. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning more about Machine Learning, Game Development, Full Stack Development, and Data Structures.
+- My goals are to create a properly trained LLM model, create an RPG game, and properly manage the business' web page.
+- Ask me about Python, SQL, or Web Dev tools.
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, Python, SQL
+- Skills: Teamwork, problem-solving, coordination
+
+## Let's Connect!
+
+- Here is my [LinkedIn] https://www.linkedin.com/in/jaime-gutierrez-615686291/ profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
