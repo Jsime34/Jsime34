@@ -18,6 +18,6 @@ I'm Jaime Gutierrez, a student at Brigham Young University-Idaho interested in a
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] https://www.linkedin.com/in/jaime-gutierrez-615686291/ profile [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my  [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() profile: https://www.linkedin.com/in/jaime-gutierrez-615686291/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
